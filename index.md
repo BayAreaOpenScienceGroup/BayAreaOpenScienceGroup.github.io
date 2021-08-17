@@ -1,4 +1,4 @@
-## Welcome to the Bay Area Open Science Group
+## About Us
 
 The Bay Area Open Science Group is intended to bring together students, faculty, and staff from the Stanford, UCSF, and Berkeley community to learn about open science, discuss the application of open science practices in a research context, and meet other members of the community who are interested in (or already are) incorporating open science practices into their work. 
 

@@ -5,7 +5,7 @@ The Bay Area Open Science Group is intended to bring together students, faculty,
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
 ### Attend an upcoming meetup
-- September 28: Innovating Education in Reproductive Health with Dr. Biftu Mengesha [register here]()
+- September 28: Innovating Education in Reproductive Health with Dr. Biftu Mengesha [register here](https://ucsf.zoom.us/meeting/register/tJYrcu-ppz0qH9ESzDiyX0l9GRtK05GLIfv0)
 - October 26: TBD
 - November 30: TBD
 - December: Break for the holidays

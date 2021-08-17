@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to the Bay Area Open Science Group
 
-You can use the [editor on GitHub](https://github.com/BayAreaOpenScienceGroup/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Bay Area Open Science Group is intended to bring together students, faculty, and staff from the Stanford, UCSF, and Berkeley community to learn about open science, discuss the application of open science practices in a research context, and meet other members of the community who are interested in (or already are) incorporating open science practices into their work. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
-### Markdown
+### Attend an upcoming meetup
+- September 28: Innovating Education in Reproductive Health with Dr. Biftu Mengesha [register here]()
+- October 26: TBD
+- November 30: TBD
+- December: Break for the holidays
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Looking for info from past meetups?
+Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
 
-```markdown
-Syntax highlighted code block
+Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/lane-open-science/?page=1&size=20)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact:
+Interested in joining the group or learning about future events? 
 
-- Bulleted
-- List
+Join the discussion on our [Slack Channel](https://join.slack.com/t/bayareaopenscience/shared_invite/zt-usx1shgw-x1yW_LugM4P9t6u~lxMlSw)
+or email [John Borghi](jborghi@stanford.edu) to be added to the mailing list.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BayAreaOpenScienceGroup/website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

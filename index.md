@@ -7,8 +7,8 @@ We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to 
 ### Attend an upcoming meetup
 - September 28: Innovating Education in Reproductive Health with Dr. Biftu Mengesha [register here](https://ucsf.zoom.us/meeting/register/tJYrcu-ppz0qH9ESzDiyX0l9GRtK05GLIfv0)
 - October 26: Curating a COVID-19 Data Repository with Tiffany Tang [register here](https://ucsf.zoom.us/meeting/register/tJAsduGvrD8jHdQ0bTh0y_f4yA-lojp28Yis) 
-- November 30: TBD
-- December: Break for the holidays
+- November 30: Open Peer Review with Mario Malički [register here]( https://ucsf.zoom.us/meeting/register/tJEsc--vqDwvGNFMP5TIIU_ouj0Yi5Ae38aB)
+- December: Break for the holidays :)
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 

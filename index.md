@@ -5,9 +5,9 @@ The Bay Area Open Science Group is intended to bring together students, faculty,
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
 ### Attend an upcoming meetup
-- December: Break for the holidays :)
 - January 25: Project Based Training in Reproducible Methods for Undergraduates with Adrienne Mueller [register here](https://ucsf.zoom.us/meeting/register/tJMudumgpjMtGtYv25s3xKY7DXyBCtVgIgCf)
 - February 22: Innovating Education in Reproductive Health with Dr. Biftu Mengesha [register here](https://ucsf.zoom.us/meeting/register/tJcsdeuspz4rHtVi8iInoM-bZyb9wyGQ77CV)
+- March 22: Improving Science Communication with Milo Johnson [register here](https://calendars.library.ucsf.edu/event/8824946)
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 

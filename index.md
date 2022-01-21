@@ -17,7 +17,7 @@ Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/
 ### Contact:
 Interested in joining the group or learning about future events? 
 
-Join the discussion on our [Slack Channel](https://join.slack.com/t/bayareaopenscience/shared_invite/zt-usx1shgw-x1yW_LugM4P9t6u~lxMlSw)
-or email [John Borghi](jborghi@stanford.edu) to be added to the mailing list.
+Join the discussion on our [Slack Channel](https://join.slack.com/t/bayareaopenscience/shared_invite/zt-125w5vagi-_r_JRszaRqohmU4E04TDaw)
+or email [John Borghi](mailto:jborghi@stanford.edu) to be added to the mailing list.
 
 

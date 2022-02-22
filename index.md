@@ -23,4 +23,3 @@ Interested in joining the group or learning about future events?
 Join the discussion on our [Slack Channel](https://join.slack.com/t/bayareaopenscience/shared_invite/zt-143mx1ck2-PkM5WMagLrP1kPAY67cObg)
 or email [John Borghi](mailto:jborghi@stanford.edu) to be added to the mailing list.
 
-

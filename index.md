@@ -9,8 +9,8 @@ The group is co-led by three librarians and supported by the libraries at UCSF, 
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
 ### Attend an upcoming meetup
-- February 22: Innovating Education in Reproductive Health with Dr. Biftu Mengesha [register here](https://ucsf.zoom.us/meeting/register/tJcsdeuspz4rHtVi8iInoM-bZyb9wyGQ77CV)
 - March 22: Improving Science Communication with Milo Johnson [register here](https://calendars.library.ucsf.edu/event/8824946)
+- April 26: Archiving the COVID Tracking Project with Kevin Miller [register her](https://ucsf.zoom.us/meeting/register/tJItcOuprTItHdb_om2nXqxPnZh4-Nk50u9T)
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 

@@ -9,8 +9,8 @@ The group is co-led by three librarians and supported by the libraries at UCSF, 
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
 ### Attend an upcoming meetup
-- May 24: Open Source Science at Berkeley [register here](https://ucsf.zoom.us/meeting/register/tJAvduCgqTgvG9yt68FJxI_wz5xq3urE6Opc)
-- June 28: Examining the Openness of COVID-19-related Randomized Control Trials [register here](https://ucsf.zoom.us/meeting/register/tJwrfuyqrj4tGt0xVBd3SIHQ4TvbuUEL5U5B)
+- July: summer break
+- Aug 23: Open Science Team Agreements[register here]( https://ucsf.zoom.us/meeting/register/tJwkfu-tpzouE9IfzBYse4rYS2L90BR3CvkU)
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 

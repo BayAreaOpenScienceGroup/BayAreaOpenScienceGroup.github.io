@@ -9,8 +9,8 @@ The group is co-led by three librarians and supported by the libraries at UCSF, 
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
 ### Attend an upcoming meetup
-- July: summer break
-- Aug 23: Open Science Team Agreements[register here]( https://ucsf.zoom.us/meeting/register/tJwkfu-tpzouE9IfzBYse4rYS2L90BR3CvkU)
+- Aug 23: Open Science Team Agreements [register here](https://ucsf.zoom.us/meeting/register/tJwkfu-tpzouE9IfzBYse4rYS2L90BR3CvkU)
+- Sept 27: #FOAMed (Free Open Access Medical education) with Dr. Dana Larsen [register here](https://ucsf.zoom.us/meeting/register/tJ0uduqorj8jGtDK0eABnb_-SUASPoS4OLls)
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 

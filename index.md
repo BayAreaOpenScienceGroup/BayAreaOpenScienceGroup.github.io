@@ -10,7 +10,7 @@ We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to 
 
 ### Attend an upcoming meetup
 - Oct 25: Transform to Open Science (TOPS) with Natasha Batalha [register here](https://ucsf.zoom.us/meeting/register/tJMtce-sqD0tEtGXqPzIjC4u368BQd-2Ni6W)
-- Nov 29: Federal Open Science Policies [register here](https://ucsf.zoom.us/meeting/register/tJYpc-2opj8jHdZdqLExJGz9zsB-EBTbJcvE)
+- Nov 29: New Federal Open Science Policies [register here](https://ucsf.zoom.us/meeting/register/tJYpc-2opj8jHdZdqLExJGz9zsB-EBTbJcvE)
 - Dec: Holiday Break!
 
 ### Looking for info from past meetups?

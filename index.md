@@ -9,7 +9,6 @@ The group is co-led by three librarians and supported by the libraries at UCSF, 
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
 ### Attend an upcoming meetup
-- Oct 25: Transform to Open Science (TOPS) with Natasha Batalha [register here](https://ucsf.zoom.us/meeting/register/tJMtce-sqD0tEtGXqPzIjC4u368BQd-2Ni6W)
 - Nov 29: New Federal Open Science Policies [register here](https://ucsf.zoom.us/meeting/register/tJYpc-2opj8jHdZdqLExJGz9zsB-EBTbJcvE)
 - Dec: Holiday Break!
 
@@ -17,6 +16,9 @@ We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to 
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
 
 Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/lane-open-science/?page=1&size=20)
+
+### Use the Open Science Team Agreements!
+Want to talk about Open Science with your lab or team? We created a two-page open science team agreements template that can guide teams in learning and making decisions about open science. [Find it on Zenodo](https://zenodo.org/record/7154101#.Y1v9HMHMKZw).
 
 ### Contact:
 Interested in joining the group or learning about future events? 

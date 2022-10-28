@@ -18,7 +18,7 @@ Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsj
 Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/lane-open-science/?page=1&size=20)
 
 ### Use the Open Science Team Agreements!
-Want to talk about Open Science with your lab or team? We created a two-page open science team agreements template that can guide teams in learning and making decisions about open science. [Find it on Zenodo](https://zenodo.org/record/7154101#.Y1v9HMHMKZw).
+Want to talk about Open Science with your lab or team? We created a two-page template for teams to learn more about open science and select practices that work for them. [Find it on Zenodo](https://zenodo.org/record/7154101#.Y1v9HMHMKZw).
 
 ### Contact:
 Interested in joining the group or learning about future events? 

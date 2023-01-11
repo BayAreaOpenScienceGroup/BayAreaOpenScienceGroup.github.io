@@ -8,9 +8,10 @@ The group is co-led by three librarians and supported by the libraries at UCSF, 
 
 We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
 
+Our goal is to build an inclusive and welcoming community for everyone, regardless of their familiarity with open science. Learn more in our [group particiption guidelines](https://docs.google.com/document/d/1rK4h07B6oMWxGFTDwS8IzNat-Q7kTQqOwLrJy_evOx0/edit?usp=sharing).
+
 ### Attend an upcoming meetup
-- Nov 29: New Federal Open Science Policies [register here](https://ucsf.zoom.us/meeting/register/tJYpc-2opj8jHdZdqLExJGz9zsB-EBTbJcvE)
-- Dec: Holiday Break!
+- 2023 schedule coming soon!
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
@@ -24,5 +25,5 @@ Want to talk about Open Science with your lab or team? We created a two-page tem
 Interested in joining the group or learning about future events? 
 
 Join the discussion on our [Slack Channel](https://join.slack.com/t/bayareaopenscience/shared_invite/zt-143mx1ck2-PkM5WMagLrP1kPAY67cObg)
-or email [John Borghi](mailto:jborghi@stanford.edu) to be added to the mailing list.
+or email [Sam Wilairat](mailto:sam.wilairat@stanford.edu) to be added to the mailing list.
 

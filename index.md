@@ -11,7 +11,7 @@ We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to 
 Our goal is to build an inclusive and welcoming community for everyone, regardless of their familiarity with open science. Learn more in our [group particiption guidelines](https://docs.google.com/document/d/1rK4h07B6oMWxGFTDwS8IzNat-Q7kTQqOwLrJy_evOx0/edit?usp=sharing).
 
 ### Attend an upcoming meetup
-- 2023 schedule coming soon!
+- Feb 28: Assessing Impactful Research with Ruth Schmidt [register here](https://ucsf.zoom.us/j/97422302638?pwd=UVFHS1h1WGp0SlQ3bXFNNG1OYUZmQT09)
 
 ### Looking for info from past meetups?
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 

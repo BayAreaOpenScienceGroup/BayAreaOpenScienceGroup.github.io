@@ -13,8 +13,8 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 ### Attend an upcoming meetup
 Are you curious about how people gain recognition or merit for their contributions to open science? This spring, the Bay Area Open Science Group will explore the theme, “Getting Credit for your Open Science Work.” Speakers from UC SF, UC Berkeley, Stanford, and beyond will join our discussion group to examine getting credit through multiple lenses. Please join us to explore this topic with the BAOSG community. 
 
-- Feb 28: Assessing Impactful Research with Ruth Schmidt [register here](https://ucsf.zoom.us/meeting/register/tJMpdeurrjksGdyO8XHYqTBUeed9gsuZNGLT)
-- Mar 28: Stanford Data Science Center for Open and Reproducible Science [register here](https://ucsf.zoom.us/meeting/register/tJMsde-srjgrGNSIJFcCSxyX9tT5JGmy9zTQ)
+- Mar 28: Can Open Science Open Science? Mapping the intersection of DEI and Open Science Principles and Practices with Joshua W. Buckholtz 
+ [register here](https://ucsf.zoom.us/meeting/register/tJMsde-srjgrGNSIJFcCSxyX9tT5JGmy9zTQ)
 - Apr 25: Open Science in Bioengineering with the Fraser Lab [register here](https://ucsf.zoom.us/meeting/register/tJMvcOGuqjsoH9LRaYqhM5zAn4U00AHj5yBP)
 - May 23: Open Data with Steve Diggs [register here](https://ucsf.zoom.us/meeting/register/tJwtceupqzIsG9JWeBItntRjC-RzWqwb0FRS)
 

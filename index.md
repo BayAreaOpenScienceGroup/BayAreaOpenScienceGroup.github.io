@@ -11,11 +11,12 @@ We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to 
 Our goal is to build an inclusive and welcoming community for everyone, regardless of their familiarity with open science. Learn more in our [group particiption guidelines](https://docs.google.com/document/d/1rK4h07B6oMWxGFTDwS8IzNat-Q7kTQqOwLrJy_evOx0/edit?usp=sharing).
 
 ### Attend an upcoming meetup
-Are you curious about how people gain recognition or merit for their contributions to open science? This spring, the Bay Area Open Science Group will explore the theme, “Getting Credit for your Open Science Work.” Speakers from UC SF, UC Berkeley, Stanford, and beyond will join our discussion group to examine getting credit through multiple lenses. Please join us to explore this topic with the BAOSG community. 
 
 - July - Aug: Summer break - no meetups!
 
 ### Looking for info from past meetups?
+Read our [2022-23 Annual Reflection](https://zenodo.org/record/8110673)!
+
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
 
 Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/lane-open-science/?page=1&size=20)

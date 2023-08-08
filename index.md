@@ -24,6 +24,8 @@ Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/
 ### Use the Open Science Team Agreements!
 Want to talk about Open Science with your lab or team? We created a two-page template for teams to learn more about open science and select practices that work for them. [Find it on Zenodo](https://zenodo.org/record/7154101#.Y1v9HMHMKZw).
 
+We presented on the team agreements at the 2023 STEM Librarians Collaborative Meeting. [See that presentation in Zenodo](https://zenodo.org/record/8226573).
+
 ### Contact:
 Interested in joining the group or learning about future events? 
 

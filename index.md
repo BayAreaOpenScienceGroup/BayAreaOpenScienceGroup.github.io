@@ -15,7 +15,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 - July - Aug: Summer break - no meetups!
 
 ### Looking for info from past meetups?
-Read our [2022-23 Annual Reflection](https://zenodo.org/record/8110673)!
+Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!
 
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
 

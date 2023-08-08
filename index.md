@@ -6,7 +6,7 @@ Every month the Bay Area Open Science group hosts a virtual meetup with a featur
  
 The group is co-led by three librarians and supported by the libraries at UCSF, Stanford, and Berkeley. 
 
-We meet on the 4th Tuesday of the month from 2-3pm via Zoom. All are welcome to attend and join the conversation!
+We meet on the 4th Tuesday of the month from 2-3pm PST via Zoom. All are welcome to attend and join the conversation!
 
 Our goal is to build an inclusive and welcoming community for everyone, regardless of their familiarity with open science. Learn more in our [group particiption guidelines](https://docs.google.com/document/d/1rK4h07B6oMWxGFTDwS8IzNat-Q7kTQqOwLrJy_evOx0/edit?usp=sharing).
 

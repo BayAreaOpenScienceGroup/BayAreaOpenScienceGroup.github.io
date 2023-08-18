@@ -12,7 +12,9 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- July - Aug: Summer break - no meetups!
+- Sept 26: Teaching Open and Reproducible Scholarship (register here)[https://ucsf.zoom.us/meeting/register/tJIsceyhqT0iGtKQo47iiHxLErihxGZXRXtw]
+- Oct 24: Building your Open Science Career (register here)[https://ucsf.zoom.us/meeting/register/tJwofu2urDMuHd0RVY-OxiscwV6udsIJld5H]
+- Nov: TBD
 
 ### Looking for info from past meetups?
 Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!

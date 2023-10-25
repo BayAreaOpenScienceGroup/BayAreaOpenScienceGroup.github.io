@@ -21,6 +21,8 @@ Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!
 
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
 
+Job hunting? Consult our [Open Science Career Resources guide](http://ucberk.li/open-science-careers) 
+
 Find presentations from past meetups on [Zenodo](https://zenodo.org/communities/lane-open-science/?page=1&size=20)
 
 ### Use the Open Science Team Agreements!

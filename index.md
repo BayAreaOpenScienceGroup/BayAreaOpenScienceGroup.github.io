@@ -12,8 +12,6 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Sept 26: Teaching Open and Reproducible Scholarship - [register here](https://ucsf.zoom.us/meeting/register/tJIsceyhqT0iGtKQo47iiHxLErihxGZXRXtw) - Note this session is at 9am!
-- Oct 24: Building your Open Science Career - [register here](https://ucsf.zoom.us/meeting/register/tJwofu2urDMuHd0RVY-OxiscwV6udsIJld5H)
 - Nov 28: Shedding Light on Corporations' Impact on Health with the Industry Documents Library [register here](https://ucsf.zoom.us/meeting/register/tJcvd-mhqj4uHNOmq9qyfJt80Son57nWJYvY) 
 
 ### Looking for info from past meetups?

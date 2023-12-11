@@ -12,7 +12,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Nov 28: Shedding Light on Corporations' Impact on Health with the Industry Documents Library [register here](https://ucsf.zoom.us/meeting/register/tJcvd-mhqj4uHNOmq9qyfJt80Son57nWJYvY) 
+2024 schedule coming soon!
 
 ### Looking for info from past meetups?
 Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!
@@ -32,5 +32,5 @@ We presented on the team agreements at the 2023 STEM Librarians Collaborative Me
 Interested in joining the group or learning about future events? 
 
 Join the discussion on our [Slack Channel](https://join.slack.com/t/bayareaopenscience/shared_invite/zt-143mx1ck2-PkM5WMagLrP1kPAY67cObg)
-or email [Sam Wilairat](mailto:sam.wilairat@stanford.edu) to be added to the mailing list.
+or email [Kristen Greenland](mailto:kgreenland@stanford.edu) to be added to the mailing list.
 

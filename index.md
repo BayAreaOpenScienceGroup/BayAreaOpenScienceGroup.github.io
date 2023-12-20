@@ -12,7 +12,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-2024 schedule coming soon!
+- Jan 23: Citizen Science for Health Research - [Register Here](https://ucsf.zoom.us/meeting/register/tJEud-ugqzMqHNL-0byOnWn5Flpy3-9SREKZ#/registration)
 
 ### Looking for info from past meetups?
 Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!

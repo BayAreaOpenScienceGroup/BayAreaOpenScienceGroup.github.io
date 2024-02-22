@@ -12,8 +12,8 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Jan 23: Citizen Science for Health Research - [Register Here](https://ucsf.zoom.us/meeting/register/tJEud-ugqzMqHNL-0byOnWn5Flpy3-9SREKZ#/registration)
 - Feb 27: Reproducibility with the UCSF Decision Lab - [Register Here](https://ucsf.zoom.us/meeting/register/tJYqfuqspz4rH9NXf1GP-InlqJsbFg2p9Vhb)
+- Mar 19: Celebrating the Sponsoring Consortium for Open Access Publishing in Particle Physics - [Register Here](https://ucsf.zoom.us/meeting/register/tJcldeGhqDsoEtcUZgUiNDo49szSqDUUByI1)
 
 ### Looking for info from past meetups?
 Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!

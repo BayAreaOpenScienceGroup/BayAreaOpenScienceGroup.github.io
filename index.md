@@ -12,8 +12,8 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Feb 27: Reproducibility with the UCSF Decision Lab - [Register Here](https://ucsf.zoom.us/meeting/register/tJYqfuqspz4rH9NXf1GP-InlqJsbFg2p9Vhb)
 - Mar 19: Celebrating the Sponsoring Consortium for Open Access Publishing in Particle Physics - [Register Here](https://ucsf.zoom.us/meeting/register/tJcldeGhqDsoEtcUZgUiNDo49szSqDUUByI1)
+- Apr 23: Supporting an Open Source Software Journal: Strategies for Effective Editing and Engagement - [Register Here](https://ucsf.zoom.us/meeting/register/tJUtceiurj0pGdxulGCoBmqg8m1q1BMraRWE)
 
 ### Looking for info from past meetups?
 Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!

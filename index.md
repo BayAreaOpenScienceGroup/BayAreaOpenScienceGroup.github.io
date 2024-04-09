@@ -12,8 +12,8 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Mar 19: Celebrating the Sponsoring Consortium for Open Access Publishing in Particle Physics - [Register Here](https://ucsf.zoom.us/meeting/register/tJcldeGhqDsoEtcUZgUiNDo49szSqDUUByI1)
 - Apr 23: Supporting an Open Source Software Journal: Strategies for Effective Editing and Engagement - [Register Here](https://ucsf.zoom.us/meeting/register/tJUtceiurj0pGdxulGCoBmqg8m1q1BMraRWE)
+- May 28: Open and Collaborative Methods for Studying Human Emotion - [Register Here](https://ucsf.zoom.us/meeting/register/tJAtf-6upjgvE9DImvCqgd6YKamu15litUOo)
 
 ### Looking for info from past meetups?
 Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!

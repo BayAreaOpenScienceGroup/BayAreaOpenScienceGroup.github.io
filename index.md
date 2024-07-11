@@ -16,7 +16,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 - Sept: TBD - coming soon
 
 ### Looking for info from past meetups?
-Read our [2022-23 Annual Reflection](https://zenodo.org/record/8136170)!
+Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!
 
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
 

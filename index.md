@@ -14,7 +14,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 - June-Aug: Summer Break!
 - Sept: TBD - coming soon
-- Nov: A checklist to guide sensitivity analyses and replications of impact evaluations - [Register Here](https://ucsf.zoom.us/meeting/register/tJctc-yppjojHdEffiYEA4zwIoVf2sun-hl0#/registration)
+- Nov. 19, 2024: A checklist to guide sensitivity analyses and replications of impact evaluations - [Register Here](https://ucsf.zoom.us/meeting/register/tJctc-yppjojHdEffiYEA4zwIoVf2sun-hl0#/registration)
 
 ### Looking for info from past meetups?
 Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!

@@ -12,9 +12,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Sept. 24, 2024: Good practices better than none: Lowering the barrier to good research data management and sharing - [Register Here](https://ucsf.zoom.us/meeting/register/tJcpdeygpzwuHtF0ZnGmmW3yA2uV0xT-e0eJ#/registration)
-- Oct. 22, 2024: Sewers for surveillance: Harnessing wastewater monitoring data for public health action - [Register Here](https://ucsf.zoom.us/meeting/register/tJUpf-CqqzgtG9T-TJu7kjcVdGQIUS0vMmGF)
-- Nov. 19, 2024: A checklist to guide sensitivity analyses and replications of impact evaluations - [Register Here](https://ucsf.zoom.us/meeting/register/tJctc-yppjojHdEffiYEA4zwIoVf2sun-hl0#/registration)
+- Feb. 25, 2025: Open Science for Preterm Birth Research: Advancing Discovery Through a Public Data Repository and a DREAM Crowdsourcing Challenge - [Register Here](https://ucsf.zoom.us/meeting/register/e6ktOHDQST-eDRQJpl8jiA)
 
 ### Looking for info from past meetups?
 Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!

@@ -12,9 +12,8 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 
 ### Attend an upcoming meetup
 
-- Jan. 28, 2025: Deep Learning Based Framework to Identify Undocumented Orphaned Oil and Gas Wells from Historical Maps - [Register Here](https://ucsf.zoom.us/meeting/register/tejW82u5S_yviAQrsgezEg)
-- Feb. 25, 2025: Open Science for Preterm Birth Research: Advancing Discovery Through a Public Data Repository and a DREAM Crowdsourcing Challenge - [Register Here](https://ucsf.zoom.us/meeting/register/e6ktOHDQST-eDRQJpl8jiA)
-- Mar. 25, 2025: Case studies in transparency: OSF at UC Berkeley - [Register Here](https://ucsf.zoom.us/meeting/register/OToEaFcXQjCcVcpROartCQ)
+- March 25, 2025: Case studies in transparency: OSF at UC Berkeley - [Register Here](https://ucsf.zoom.us/meeting/register/OToEaFcXQjCcVcpROartCQ)
+- April 22, 2025: Open Science and Health Policy: Forward Progress or Complete Chaos? - [Register Here](https://ucsf.zoom.us/meeting/register/ZlyvBK7KTh-nxdxjBze6Vg)
 
 ### Looking for info from past meetups?
 Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!

@@ -13,7 +13,7 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 ### Attend an upcoming meetup
 
 - April 22, 2025: Open Science and Health Policy: Forward Progress or Complete Chaos? - [Register Here](https://ucsf.zoom.us/meeting/register/ZlyvBK7KTh-nxdxjBze6Vg)
-- May 20, 2025: Developing and using open-source software tools: from neuroinformatics to biomechanics [Register Here](https://ucsf.zoom.us/meeting/register/2wSn4HoCSami01zdmjzHoA)
+- May 20, 2025: Developing and using open-source software tools: from neuroinformatics to biomechanics - [Register Here](https://ucsf.zoom.us/meeting/register/2wSn4HoCSami01zdmjzHoA)
 
 ### Looking for info from past meetups?
 Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!

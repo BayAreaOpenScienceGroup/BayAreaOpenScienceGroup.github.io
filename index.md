@@ -1,3 +1,5 @@
+![Bay Area Open Science Group Logo](/docs/assets/baosg_icon.jpeg)
+
 ## About Us
 
 The Bay Area Open Science Group is a growing community for Bay Area academics and researchers interested in incorporating open science into their research, teaching, and learning. Targeting students, faculty, and staff at UCSF, Berkeley, and Stanford, the goal of the community is to increase awareness of and engagement with all things open science, including open access articles, open research data, open source software, and open educational resources. Through this work the group hopes to connect researchers with tools they can use to make the products and process of science more equitable and reproducible.

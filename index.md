@@ -16,9 +16,9 @@ Our goal is to build an inclusive and welcoming community for everyone, regardle
 - May 20, 2025: Developing and using open-source software tools: from neuroinformatics to biomechanics - [Register Here](https://ucsf.zoom.us/meeting/register/2wSn4HoCSami01zdmjzHoA)
 
 ### Looking for info from past meetups?
-Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!
-
 Check out our [collaborative notes](https://docs.google.com/document/d/1gy8IuIsjcPPSa89PkpF03QWwwd8rt3BO-18qrvQoKhY/edit?usp=sharing) 
+
+Read our [2023-24 Annual Reflection](https://zenodo.org/records/12702026)!
 
 Job hunting? Consult our [Open Science Career Resources guide](http://ucberk.li/open-science-careers) 
 

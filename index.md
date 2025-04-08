@@ -1,4 +1,4 @@
-![Bay Area Open Science Group Logo](/docs/assets/baosg_icon.jpeg)
+<img src="/docs/assets/baosg_icon.jpeg" alt="Bay Area Open Science Group logo" width="300" height="300">
 
 ## About Us
 

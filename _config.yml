@@ -4,7 +4,7 @@ email: samteplitzky@berkeley.edu
 url: BayAreaOpenScienceGroup.github.io
 description: A virtual community for Stanford, UCSF, & Berkeley
 keywords: "your keywords, separated by commas"
-skills: "A virtual community for Stanford, UCSF, & UC Berkeley and beyond"
+skills: "A virtual community for Stanford, UCSF, UC Berkeley and beyond"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Bay Area Open Science Group
-  location: Location
+  location: San Francisco Bay Area (and beyond!)
   social: Around the Web
   credits: Credits
 

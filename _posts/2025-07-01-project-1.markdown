@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2025-07-01
+img: cabin.png
+alt: image-alt
+project-date: July 2025
+client: none
+category: Annual Reflection
+description: The Bay Area Open Science Group (BAOSG) is a collaborative community for San Francisco Bay Area academics and researchers interested in incorporating open science into their research, teaching, and learning. In May we completed our fourth year of programming, offering 8 sessions to our community members in the 2024-25 academic year with an average attendance of 22 people per session. Find the 2024-25 annual reflection on Zenodo. Past reflections are available [here](https://zenodo.org/search?q=metadata.subjects.subject%3A%22BAOSG%22)
+---

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2025-06-26T09:12:40-07:00</updated>
+  <updated>2025-06-26T14:47:03-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,11 +20,11 @@
   
   
     <entry>
-      <title type="html">Project 1</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <title type="html">Annual Reflections</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Annual Reflections" />
       <published>2025-06-25T00:00:00-07:00</published>
       <updated>2025-06-25T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-1</id>
+      <id>http://localhost:4000/Annual-Reflections</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -54,11 +54,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 2</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <title type="html">Open Science Team Agreements</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Open Science Team Agreements" />
       <published>2025-06-25T00:00:00-07:00</published>
       <updated>2025-06-25T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-2</id>
+      <id>http://localhost:4000/Open-Science-Team-Agreements</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       
@@ -88,11 +88,11 @@
     </entry>
   
     <entry>
-      <title type="html">Project 3</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <title type="html">Meeting Notes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Meeting Notes" />
       <published>2014-07-16T00:00:00-07:00</published>
       <updated>2014-07-16T00:00:00-07:00</updated>
-      <id>http://localhost:4000/project-3</id>
+      <id>http://localhost:4000/Meeting-Notes</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

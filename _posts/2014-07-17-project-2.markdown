@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2025-06-25
+img: team_agreements.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2022
+client: none
+category: Team Agreements
+description: The Open Science Team Agreement template was designed by the Bay Area Open Science Group as a resources for teams interested in having conversations about open science and codifying their practices. To use it for your team, download a copy in your file format of choice, learn more about the topics, modify the highlighted sections, and delete the sections that aren’t relevant to your research.
 ---

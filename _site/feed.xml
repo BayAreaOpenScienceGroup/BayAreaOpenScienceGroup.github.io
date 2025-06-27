@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2025-06-26T14:47:03-07:00</updated>
+  <updated>2025-06-27T16:10:21-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -40,8 +40,6 @@
       </author>
 
       
-        <category term="Annual Reflection" />
-      
 
       
 
@@ -74,8 +72,6 @@
       </author>
 
       
-        <category term="Team Agreements" />
-      
 
       
 
@@ -107,8 +103,6 @@
         
       </author>
 
-      
-        <category term="Web Development" />
       
 
       

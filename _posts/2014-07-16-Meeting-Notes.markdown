@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: meeting_notes.png
-alt: image-alt
+alt: Image of a laptop next to a stack of books and a world and science symbols with the phrase "meeting notes"
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

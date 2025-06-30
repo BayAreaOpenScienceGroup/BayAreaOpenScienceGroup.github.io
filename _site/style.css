@@ -29,6 +29,15 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
+    color: #15a98c;
+}
+
+.success a,
+.success a:hover,
+.success a:focus,
+.success a:active,
+.success a.active {
+    outline: 0;
     color: #2c3e50;
 }
 

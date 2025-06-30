@@ -22,6 +22,15 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
+    color: #{{ site.color.primary }};
+}
+
+.success a,
+.success a:hover,
+.success a:focus,
+.success a:active,
+.success a.active {
+    outline: 0;
     color: #{{ site.color.secondary }};
 }
 

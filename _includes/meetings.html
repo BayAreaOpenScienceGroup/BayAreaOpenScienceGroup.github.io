@@ -19,6 +19,14 @@
         
         <p>Coming soon!</p>
       
+<ul>
+  {% for post in site.categories.category2 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+      
         <br>
       
         <h4> Accessibility</h4>

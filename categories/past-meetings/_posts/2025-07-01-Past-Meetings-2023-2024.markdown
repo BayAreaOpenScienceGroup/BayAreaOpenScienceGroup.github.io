@@ -3,8 +3,8 @@ layout: post
 date: 2025-07-02
 title: "2023-2024 Meetings"
 alt: Past Meetings 2023-24
-permalink: /past-meetings/:title
 description: list of meetings from the 2023-2024 year
+permalink: /past-meetings/2023-2024-meetings/
 ---
 
 <div align = "center">

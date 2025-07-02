@@ -2,9 +2,9 @@
 layout: post
 date: 2025-07-01
 title: "2024-2025 Meetings"
-permalink: /past-meetings/:title
 alt: Past Meetings 2024-25
 description: list of meetings from the 2024-25 year
+permalink: /past-meetings/2024-2025-meetings/
 ---
 
 <div align = "center">
@@ -19,6 +19,7 @@ description: list of meetings from the 2024-25 year
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg" style="undefined;table-layout: fixed; width: 896px"><colgroup>
 <col style="width: 66px">
 <col style="width: 221px">

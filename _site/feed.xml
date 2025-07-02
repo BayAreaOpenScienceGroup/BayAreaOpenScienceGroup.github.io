@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2025-07-02T10:20:41-07:00</updated>
+  <updated>2025-07-02T11:09:49-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">2022-2023 Meetings</title>
-      <link href="http://localhost:4000/past-meetings/Past-Meetings-2022-2023" rel="alternate" type="text/html" title="2022-2023 Meetings" />
+      <link href="http://localhost:4000/past-meetings/2022-2023-meetings/" rel="alternate" type="text/html" title="2022-2023 Meetings" />
       <published>2025-07-02T00:00:00-07:00</published>
       <updated>2025-07-02T00:00:00-07:00</updated>
       <id>http://localhost:4000/past-meetings/Past-Meetings-2022-2023</id>
-      <content type="html" xml:base="http://localhost:4000/past-meetings/Past-Meetings-2022-2023">&lt;div align=&quot;center&quot;&gt;
+      <content type="html" xml:base="http://localhost:4000/past-meetings/2022-2023-meetings/">&lt;div align=&quot;center&quot;&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -136,11 +136,11 @@
   
     <entry>
       <title type="html">2023-2024 Meetings</title>
-      <link href="http://localhost:4000/past-meetings/Past-Meetings-2023-2024" rel="alternate" type="text/html" title="2023-2024 Meetings" />
+      <link href="http://localhost:4000/past-meetings/2023-2024-meetings/" rel="alternate" type="text/html" title="2023-2024 Meetings" />
       <published>2025-07-02T00:00:00-07:00</published>
       <updated>2025-07-02T00:00:00-07:00</updated>
       <id>http://localhost:4000/past-meetings/Past-Meetings-2023-2024</id>
-      <content type="html" xml:base="http://localhost:4000/past-meetings/Past-Meetings-2023-2024">&lt;div align=&quot;center&quot;&gt;
+      <content type="html" xml:base="http://localhost:4000/past-meetings/2023-2024-meetings/">&lt;div align=&quot;center&quot;&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -243,11 +243,11 @@
   
     <entry>
       <title type="html">2024-2025 Meetings</title>
-      <link href="http://localhost:4000/past-meetings/Past-Meetings-2024-2025" rel="alternate" type="text/html" title="2024-2025 Meetings" />
+      <link href="http://localhost:4000/past-meetings/2024-2025-meetings/" rel="alternate" type="text/html" title="2024-2025 Meetings" />
       <published>2025-07-01T00:00:00-07:00</published>
       <updated>2025-07-01T00:00:00-07:00</updated>
       <id>http://localhost:4000/past-meetings/Past-Meetings-2024-2025</id>
-      <content type="html" xml:base="http://localhost:4000/past-meetings/Past-Meetings-2024-2025">&lt;div align=&quot;center&quot;&gt;
+      <content type="html" xml:base="http://localhost:4000/past-meetings/2024-2025-meetings/">&lt;div align=&quot;center&quot;&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -259,6 +259,7 @@
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 &lt;/style&gt;
+
 &lt;table class=&quot;tg&quot; style=&quot;undefined;table-layout: fixed; width: 896px&quot;&gt;&lt;colgroup&gt;
 &lt;col style=&quot;width: 66px&quot; /&gt;
 &lt;col style=&quot;width: 221px&quot; /&gt;

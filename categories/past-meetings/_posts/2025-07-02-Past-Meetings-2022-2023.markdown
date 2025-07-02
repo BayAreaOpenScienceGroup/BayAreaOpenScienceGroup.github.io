@@ -2,9 +2,8 @@
 layout: post
 date: 2025-07-02
 title: "2022-2023 Meetings"
-alt: Past Meetings 2022-23
-permalink: /past-meetings/:title
 description: list of meetings from the 2022-2023 year
+permalink: /past-meetings/2022-2023-meetings/
 ---
 
 <div align = "center">

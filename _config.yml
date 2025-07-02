@@ -1,7 +1,8 @@
 # Site settings
 title: Bay Area Open Science Group
 email: samteplitzky@berkeley.edu
-url: bayareaopensciencegroup.github.io
+url: https://bayareaopensciencegroup.github.io
+baseurl: ""
 description: A virtual community for Stanford, UCSF, & Berkeley
 keywords: "your keywords, separated by commas"
 skills: "A virtual community for Stanford, UCSF, UC Berkeley and beyond"

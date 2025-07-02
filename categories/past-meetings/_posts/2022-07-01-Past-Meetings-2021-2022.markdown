@@ -1,0 +1,92 @@
+---
+layout: post
+date: 2022-07-01
+title: "2021-2022 Meetings"
+description: list of meetings from the 2021-2022 year
+permalink: /past-meetings/2021-2022-meetings/
+---
+
+<div align = "center">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 931px"><colgroup>
+<col style="width: 86px">
+<col style="width: 225px">
+<col style="width: 225px">
+<col style="width: 395px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-zlqz"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Date</span></th>
+    <th class="tg-zlqz"><span style="font-style:normal;text-decoration:none;color:#000;background-color:transparent">Title</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Presenter</span></th>
+    <th class="tg-34fe"><span style="font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Summary</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">9/28/21</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Getting to Know the Bay Area Open Science Group</span><br></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">BAOSG Facilitators</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Discussion of the purpose of the group and shared approaches to open science</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">10/26/21</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Curating a COVID-19 Data Repository</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Tiffany Tang (Berkeley)</span></td>
+    <td class="tg-0pky">Lessons learned creating open-source public data repository of COVID-19 data</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">11/30/21</span></td>
+    <td class="tg-0pky">Open Peer Review</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mario </span><span style="color:#000;background-color:transparent">Malički (Stanford)</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Discussion of impact of peer review and move towards structured peer review</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">1/25/22</span></td>
+    <td class="tg-0pky">Project Based Training in Reproducible Methods for Undergraduates</td>
+    <td class="tg-0pky">Adrienne Mueller (Stanford)</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">Lessons from Stanford Cardiovascular Institute pilot "Rigor and Reproducibility Side-Projects" initiative mentoring undergraduate students in four meta-research projects using open science methods</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">2/22/22</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Innovating Education in Reproductive Health</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Biftu Mengesha (UCSF)</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Open curricula and educational resources for sexual and reproductive health</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3/22/22</td>
+    <td class="tg-0pky">Improving Science Communication</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Milo Johnson (UC Berkeley)</span></td>
+    <td class="tg-0pky">Ongoing project to make scientific papers more interactive through "clickable depth"</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">4/26/22</span></td>
+    <td class="tg-0pky">Archiving the COVID Tracking Project</td>
+    <td class="tg-0pky">Kevin Miller (UCSF)</td>
+    <td class="tg-0pky">Discussion of Covid Tracking Project and archiving considerations for data, repository and group project management</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">5/24/22</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">UC Berkeley Open Source Science Group</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none">Rachel Clune, Orion Cohen, Tarini Hardikar, and Connie Robinson (UC Berkeley)</span><br></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Discussion of evolving graduate student led open source skills course</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">6/28/22</td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none">COVID-19 RCTs</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">John Borghi (Stanford)</span></td>
+    <td class="tg-0lax">Lane Medical Library project on randomized controlled trials literature for COVID-related drugs</td>
+  </tr>
+</tbody></table>
+
+</div>

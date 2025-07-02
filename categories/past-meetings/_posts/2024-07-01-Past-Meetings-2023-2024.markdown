@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-07-02
+date: 2024-07-01
 title: "2023-2024 Meetings"
 alt: Past Meetings 2023-24
 description: list of meetings from the 2023-2024 year

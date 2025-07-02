@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2025-07-02T08:23:10-07:00</updated>
+  <updated>2025-07-02T10:20:41-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,234 @@
   
   
     <entry>
-      <title type="html">Past Meetings</title>
-      <link href="http://localhost:4000/past-meetings" rel="alternate" type="text/html" title="Past Meetings" />
+      <title type="html">2022-2023 Meetings</title>
+      <link href="http://localhost:4000/past-meetings/Past-Meetings-2022-2023" rel="alternate" type="text/html" title="2022-2023 Meetings" />
+      <published>2025-07-02T00:00:00-07:00</published>
+      <updated>2025-07-02T00:00:00-07:00</updated>
+      <id>http://localhost:4000/past-meetings/Past-Meetings-2022-2023</id>
+      <content type="html" xml:base="http://localhost:4000/past-meetings/Past-Meetings-2022-2023">&lt;div align=&quot;center&quot;&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-34fe{background-color:#c0c0c0;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&quot;tg&quot; style=&quot;undefined;table-layout: fixed; width: 931px&quot;&gt;&lt;colgroup&gt;
+&lt;col style=&quot;width: 86px&quot; /&gt;
+&lt;col style=&quot;width: 225px&quot; /&gt;
+&lt;col style=&quot;width: 225px&quot; /&gt;
+&lt;col style=&quot;width: 395px&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&quot;tg-zlqz&quot;&gt;&lt;span style=&quot;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Date&lt;/span&gt;&lt;/th&gt;
+    &lt;th class=&quot;tg-zlqz&quot;&gt;&lt;span style=&quot;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Title&lt;/span&gt;&lt;/th&gt;
+    &lt;th class=&quot;tg-34fe&quot;&gt;&lt;span style=&quot;font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Presenter&lt;/span&gt;&lt;/th&gt;
+    &lt;th class=&quot;tg-34fe&quot;&gt;&lt;span style=&quot;font-weight:bold;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Summary&lt;/span&gt;&lt;/th&gt;
+  &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;August 2022&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Open Science &lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Team Agreements&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;BAOSG Facilitators&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Open Science Team Agreements Template discussion and incorporation of feedback from attendees&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;September 2022&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;#FOAMed (Free Open Access Medical education)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Dana Larsen (UCSF)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Innovations in open curriculum for nephrology students&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;October 2022&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;NASA TOPS (Transform to Open Science) Curriculum Development&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Natasha Batalha (NASA Ames)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;An introduction to the development of an open science curriculum as part of the NASA TOPS initiative for the 2023 Year of Open Science&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;November 2022&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Federal Open Science Policies&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;BAOSG Facilitators&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Review of the 2023 NIH Data Management and Sharing Policy and the 2023 OSTP Memo &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;February 2023&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Project TARA (Tools to Advance Research Assessment), Building Blocks for Impact&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Ruth Schmidt (Institute of Design, Illinois Tech)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of assessing impactful research through an open science lens. &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;March 2023&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Open and Reproducible Science at Stanford&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Joshua Buckholtz (Stanford)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of the intersection of DEI and Open Science principles and practices. &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;April 2023&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Open Science in Bioengineering with the Fraser Lab&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Robbie Diaz and Christian Macdonald (UCSF)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of the culture of Open Science in the Fraser Lab, the opportunities it has presented and impact it has had on members.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;May 2023&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Open Data&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Steve Diggs&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;(UC California Digital Library)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of data activism, data loss, and the four steps in data publishing.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;June 2023&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;ChatGPT and SciHub, an informal chat&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;BAOSG + Albert Lee (UCSF)&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0lax&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion on the intersections between ChatGPT and SciHub and how researchers use them to find information.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2023-2024 Meetings</title>
+      <link href="http://localhost:4000/past-meetings/Past-Meetings-2023-2024" rel="alternate" type="text/html" title="2023-2024 Meetings" />
+      <published>2025-07-02T00:00:00-07:00</published>
+      <updated>2025-07-02T00:00:00-07:00</updated>
+      <id>http://localhost:4000/past-meetings/Past-Meetings-2023-2024</id>
+      <content type="html" xml:base="http://localhost:4000/past-meetings/Past-Meetings-2023-2024">&lt;div align=&quot;center&quot;&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+&lt;/style&gt;
+&lt;table class=&quot;tg&quot; style=&quot;undefined;table-layout: fixed; width: 896px&quot;&gt;&lt;colgroup&gt;
+&lt;col style=&quot;width: 66px&quot; /&gt;
+&lt;col style=&quot;width: 221px&quot; /&gt;
+&lt;col style=&quot;width: 221px&quot; /&gt;
+&lt;col style=&quot;width: 388px&quot; /&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+  &lt;tr&gt;
+    &lt;th class=&quot;tg-zlqz&quot;&gt;&lt;span style=&quot;font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Date&lt;/span&gt;&lt;/th&gt;
+    &lt;th class=&quot;tg-zlqz&quot;&gt;&lt;span style=&quot;font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Title&lt;/span&gt;&lt;/th&gt;
+    &lt;th class=&quot;tg-zlqz&quot;&gt;&lt;span style=&quot;font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Presenter&lt;/span&gt;&lt;/th&gt;
+    &lt;th class=&quot;tg-zlqz&quot;&gt;&lt;span style=&quot;font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Summary&lt;/span&gt;&lt;/th&gt;
+  &lt;/tr&gt;&lt;/thead&gt;
+&lt;tbody&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;9/26/23&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Journal club: Teaching open and reproducible scholarship&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;BAOSG Co-convenors &lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of the paper “&lt;/span&gt;&lt;a href=&quot;https://doi.org/10.1098/rsos.221255&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent&quot;&gt;Teaching open and reproducible scholarship: a critical review of the evidence base for current pedagogical methods and their outcomes&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;” &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;10/24/23&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Building your Open Science Career&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Hao Ye, Community for Rigor, U of Pennsylvania and Virginia Scarlett, HHMI Janelia&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Panel discussion on job searching and career pathways in open science.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;11/28/23&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;UCSF Industry Documents Library&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Kate Tasker and Rebecca Tang, UCSF Industry Documents Library&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of the UCSF Industry Documents Library, a free online archive of corporate documents affecting public health, and its use in research, litigation, journalism, and policymaking.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;1/23/24&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Citizen Science for health research&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Shamsi Soltani, Stanford&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Use of citizen scientist-collected data from Bay Area communities along with aggregate epidemiologic and population-level data sets to illustrate barriers to, and facilitators of, physical activity in low-income aging adults. &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;2/27/24&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Reproducibility in the UCSF Decision Lab&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Winston Chiong, Clara Sanches, Pongpat Putthinun, and Brandon Leggins, UCSF Decision Lab&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Incorporating reproducibility into neuroethics and decision neuroscience research, showcasing practices and values from their lab handbook.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;3/19/24&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;SCOAP3 10th Anniversary&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Kamran Naim and Anne Gentil-Beccot - CERN&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;10th anniversary of the SCOAP3 model (Sponsoring Consortium for Open Access Publishing in Particle Physics), accomplishments and plans for the future, and highlighted data from participating US institutions.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;4/23/24&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Supporting an Open Source Software Journal: Strategies for Effective Editing and Engagement&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Kelly Rowland, NERSC/LBNL&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Experience as editor for JOSS, a journal dedicated to publishing articles about open source research software across domains. &lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;5/28/24&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Will teamwork make the dream work? Promoting open science practices via big team science&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Nicholas Coles and Heidi Baumgartner, Stanford&lt;/span&gt;&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;&lt;span style=&quot;font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent&quot;&gt;Discussion of the Stanford Big Team Science Lab (BiTS) and how to promote open science practices through large-scale collaboration.&lt;/span&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">2024-2025 Meetings</title>
+      <link href="http://localhost:4000/past-meetings/Past-Meetings-2024-2025" rel="alternate" type="text/html" title="2024-2025 Meetings" />
       <published>2025-07-01T00:00:00-07:00</published>
       <updated>2025-07-01T00:00:00-07:00</updated>
-      <id>http://localhost:4000/Past-Meetings</id>
-      <content type="html" xml:base="http://localhost:4000/past-meetings">&lt;div align=&quot;center&quot;&gt;
+      <id>http://localhost:4000/past-meetings/Past-Meetings-2024-2025</id>
+      <content type="html" xml:base="http://localhost:4000/past-meetings/Past-Meetings-2024-2025">&lt;div align=&quot;center&quot;&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .tg  {border-collapse:collapse;border-spacing:0;}

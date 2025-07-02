@@ -1,12 +1,12 @@
 ---
 layout: post
-permalink: /past-meetings
 date: 2025-07-01
-img: cabin.png
-alt: Past Meetings
-description: test test test
-
+title: "2024-2025 Meetings"
+permalink: /past-meetings/:title
+alt: Past Meetings 2024-25
+description: list of meetings from the 2024-25 year
 ---
+
 <div align = "center">
 
 <style type="text/css">

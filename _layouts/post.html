@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body id="page-top" class="index">
+  {% include nav.html %}
+  {% include header.html %}  
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <header>
+    <h2>{{ page.title }}</h2>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+</body>
+  {% include footer.html %}
+  {% include js.html %}
+</body>
+</html>

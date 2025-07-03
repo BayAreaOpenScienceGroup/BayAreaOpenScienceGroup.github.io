@@ -9,8 +9,17 @@
 
     <section class="page-section">
       <div class="container">
-        <h2 class="text-center">{{ page.title }}</h2>
+        <h2 class="text-center" style="margin-bottom: 2rem;">{{ page.title }}</h2>
+        
+        <div style="padding-bottom: 3rem;">
         {{ content }}
+        </div>
+      
+      <div class="text-center mt-5 mb-4">
+        <a href="{{ site.baseurl }}/" class="btn btn-primary">
+         ← Home
+        </a>
+      </div>
       </div>
     </section>
 

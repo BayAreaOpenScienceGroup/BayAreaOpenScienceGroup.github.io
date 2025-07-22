@@ -376,6 +376,15 @@ footer {
     color: #fff;
 }
 
+footer a {
+  color: #c9352e; /* for example, your pink accent */
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #c9352e; /* maybe a darker hover */
+}
+
 footer h3 {
     margin-bottom: 30px;
 }

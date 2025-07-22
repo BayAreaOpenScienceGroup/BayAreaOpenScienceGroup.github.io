@@ -68,11 +68,11 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #202d37;
 }
 
 hr.star-light:after {
-    color: #fff;
+    color: #202d37;
     background-color: #{{ site.color.primary }};
 }
 
@@ -82,7 +82,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #fff;
+    background-color: #a7c6c8;
 }
 
 .img-centered {
@@ -91,7 +91,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #202d37;
     background: #{{ site.color.primary }};
 }
 

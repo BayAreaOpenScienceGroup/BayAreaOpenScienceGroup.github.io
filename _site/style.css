@@ -75,20 +75,20 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #202d37;
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #15a98c;
+    color: #202d37;
+    background-color: #a7c6c8;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    border-color: #202d37;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #202d37;
     background-color: #fff;
 }
 
@@ -98,8 +98,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
-    background: #15a98c;
+    color: #202d37;
+    background: #a7c6c8;
 }
 
 header .container {
@@ -197,8 +197,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #15a98c;
+    color: #202d37;
+    background: #a7c6c8;
 }
 
 @media(max-width:767px) {

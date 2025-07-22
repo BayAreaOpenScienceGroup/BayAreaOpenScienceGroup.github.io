@@ -17,12 +17,16 @@ p.small {
 }
 
 a,
-a:hover,
+a:hover {
+  text-decoration: underline;
+}
+
 a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.secondary-dark }};
+    text-decoration: underline;
 }
 
 .success a,
@@ -31,7 +35,8 @@ a.active {
 .success a:active,
 .success a.active {
     outline: 0;
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.secondary-dark }};
+    text-decoration: underline;
 }
 
 h1,

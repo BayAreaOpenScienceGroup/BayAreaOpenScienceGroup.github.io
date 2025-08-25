@@ -63,4 +63,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      permalink: /:resources/:title/
+      permalink: /resources/:title/

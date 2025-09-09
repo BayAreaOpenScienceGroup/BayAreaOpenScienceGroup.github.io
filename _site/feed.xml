@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2025-08-25T11:59:00-07:00</updated>
+  <updated>2025-09-09T16:53:07-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -129,11 +129,11 @@
   
     <entry>
       <title type="html">Meeting Notes</title>
-      <link href="http://localhost:4000/categories/resources/Meeting-Notes/" rel="alternate" type="text/html" title="Meeting Notes" />
+      <link href="http://localhost:4000/resources/Meeting-Notes/" rel="alternate" type="text/html" title="Meeting Notes" />
       <published>2025-06-27T00:00:00-07:00</published>
       <updated>2025-06-27T00:00:00-07:00</updated>
-      <id>http://localhost:4000/categories/resources/Meeting-Notes</id>
-      <content type="html" xml:base="http://localhost:4000/categories/resources/Meeting-Notes/"></content>
+      <id>http://localhost:4000/resources/Meeting-Notes</id>
+      <content type="html" xml:base="http://localhost:4000/resources/Meeting-Notes/"></content>
 
       
       
@@ -161,11 +161,11 @@
   
     <entry>
       <title type="html">Open Science Team Agreements</title>
-      <link href="http://localhost:4000/categories/resources/Open-Science-Team-Agreements/" rel="alternate" type="text/html" title="Open Science Team Agreements" />
+      <link href="http://localhost:4000/resources/Open-Science-Team-Agreements/" rel="alternate" type="text/html" title="Open Science Team Agreements" />
       <published>2025-06-26T00:00:00-07:00</published>
       <updated>2025-06-26T00:00:00-07:00</updated>
-      <id>http://localhost:4000/categories/resources/Open-Science-Team-Agreements</id>
-      <content type="html" xml:base="http://localhost:4000/categories/resources/Open-Science-Team-Agreements/"></content>
+      <id>http://localhost:4000/resources/Open-Science-Team-Agreements</id>
+      <content type="html" xml:base="http://localhost:4000/resources/Open-Science-Team-Agreements/"></content>
 
       
       
@@ -193,11 +193,11 @@
   
     <entry>
       <title type="html">Annual Reflections</title>
-      <link href="http://localhost:4000/categories/resources/Annual-Reflections/" rel="alternate" type="text/html" title="Annual Reflections" />
+      <link href="http://localhost:4000/resources/Annual-Reflections/" rel="alternate" type="text/html" title="Annual Reflections" />
       <published>2025-06-25T00:00:00-07:00</published>
       <updated>2025-06-25T00:00:00-07:00</updated>
-      <id>http://localhost:4000/categories/resources/Annual-Reflections</id>
-      <content type="html" xml:base="http://localhost:4000/categories/resources/Annual-Reflections/"></content>
+      <id>http://localhost:4000/resources/Annual-Reflections</id>
+      <content type="html" xml:base="http://localhost:4000/resources/Annual-Reflections/"></content>
 
       
       

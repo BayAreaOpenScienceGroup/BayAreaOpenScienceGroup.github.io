@@ -511,3 +511,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+ul, ol, li {
+    font-size: 20px;      /* match <p> text */
+    line-height: 1.6;     /* optional: match paragraph spacing */
+}

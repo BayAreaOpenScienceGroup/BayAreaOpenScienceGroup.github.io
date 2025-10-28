@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2025-10-28T10:33:42-07:00</updated>
+  <updated>2025-10-28T10:43:12-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,12 +20,12 @@
   
   
     <entry>
-      <title type="html">2024-2025 Meetings</title>
-      <link href="http://localhost:4000/past-meetings/2024-2025-meetings/" rel="alternate" type="text/html" title="2024-2025 Meetings" />
-      <published>2025-07-01T00:00:00-07:00</published>
-      <updated>2025-07-01T00:00:00-07:00</updated>
+      <title type="html">2025-2026 Meetings</title>
+      <link href="http://localhost:4000/past-meetings/2025-2026-meetings/" rel="alternate" type="text/html" title="2025-2026 Meetings" />
+      <published>2025-10-28T00:00:00-07:00</published>
+      <updated>2025-10-28T00:00:00-07:00</updated>
       <id>http://localhost:4000/past-meetings/Past-Meetings-2025-2026</id>
-      <content type="html" xml:base="http://localhost:4000/past-meetings/2024-2025-meetings/">&lt;div align=&quot;center&quot;&gt;
+      <content type="html" xml:base="http://localhost:4000/past-meetings/2025-2026-meetings/">&lt;div align=&quot;center&quot;&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -53,52 +53,16 @@
   &lt;/tr&gt;&lt;/thead&gt;
 &lt;tbody&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;9/24/24&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Good practices better than none: Lowering the barrier to good research data management and sharing&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Abel Torres Espin, School of Public Health Sciences, University of Waterloo, Adjunct at UCSF&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Focused on neuroscience data sharing and barriers to open data. Advocated for data literacy, repository use, FAIR principles, and lab-level strategies to support reproducibility.&lt;/td&gt;
+    &lt;td class=&quot;tg-dvpl&quot;&gt;9/23/25&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;Rescuing Federal Research Data&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;Yea-Hung Chen and Ariel Deardorff, UCSF&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;Recent developments in data censorship and the current efforts to rescue and preserve government datasets. Organizations that have worked to preserve data, alternative sources of government data, and how you can get involved to protect valuable public information.&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;10/22/24&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Sewers for surveillance: Harnessing wastewater monitoring data for public health action&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Elana Chan, Civil &amp;amp; Environmental Engineering PhD Candidate, Stanford&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Wastewater surveillance for infectious disease tracking. Shared open data/code, highlighted benefits of open science in public health, and reflected on cultural shifts.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;11/19/24&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;A checklist to guide sensitivity analyses and replications of impact evaluations&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Sridevi Prasad, Global Health &amp;amp; Development PhD Student, Emory Rollins School of Public Health&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Introduced a replication analysis checklist to improve transparency, rigor, and communication in impact evaluations.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;1/28/25&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Deep Learning Based Framework to Identify Undocumented Orphaned Oil and Gas Wells from Historical Maps&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Fabio Ciulla, Postdoc, Climate and Ecosystem Division, Lawrence Berkeley National Laboratory&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Presented a deep learning model to detect undocumented wells from historical maps. Released code and data to support environmental monitoring and regulatory use.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;2/28/25&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Open Science for Preterm Birth Research: Advancing Discovery Through a Public Data Repository and a DREAM Crowdsourcing Challenge&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Tomiko Oskotsky, Bakar Computational Health Sciences Institute, UCSF&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Showcased the MOD preterm birth data repository; covered data sharing, LLM analysis, education efforts, DREAM challenges, and clinic-relevant biomedical predictions.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;3/25/25&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Case studies in transparency: &lt;br /&gt;OSF at UC Berkeley&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Mariam Aly (Psychology) and Don Moore (Haas), UC Berkeley&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Presented different use cases for OSF (Open Science Framework), including Lab documentation (Aly) and project management (Moore)&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;4/22/25&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Open Science and Health Policy: Forward Progress or Complete Chaos?&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Kathryn Phillips, Health Economics and Health Services Research, UCSF&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Discussed OA models, funder mandates, replication, equity concerns, and political shifts affecting public access and data sharing norms.&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td class=&quot;tg-dvpl&quot;&gt;5/20/25&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Developing and using open-source software tools: from neuroinformatics to biomechanics&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Sydney Covitz, Bioengineering PhD Student, Stanford&lt;/td&gt;
-    &lt;td class=&quot;tg-0pky&quot;&gt;Highlighted OpenCap and CuBIDS: open-source tools for clinical biomechanics and neuroimaging. Focus on scalable data collection, ML-driven metrics, and curated reproducible pipelines.&lt;/td&gt;
+    &lt;td class=&quot;tg-dvpl&quot;&gt;10/28/25&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;The UC OSPO Survey 2025: A multi-campus survey of open source contributors at the University of California&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;Virginia Scarlett, UC Santa Barbara&lt;/td&gt;
+    &lt;td class=&quot;tg-0pky&quot;&gt;Results of April 2025 survey assessing state of UC Open Source. Survey sheds light on how and why academics contribute to open source projects, as well as some of the barriers holding them back.&lt;/td&gt;
   &lt;/tr&gt;
 &lt;/tbody&gt;&lt;/table&gt;
 &lt;/div&gt;</content>

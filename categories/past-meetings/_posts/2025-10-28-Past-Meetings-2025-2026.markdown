@@ -1,0 +1,50 @@
+---
+layout: post
+date: 2025-10-281
+title: "2025-2026 Meetings"
+alt: Past Meetings 2025-26
+description: list of meetings from the 2025-26 year
+permalink: /past-meetings/2025-2026-meetings/
+---
+
+<div align = "center">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 896px"><colgroup>
+<col style="width: 66px">
+<col style="width: 221px">
+<col style="width: 221px">
+<col style="width: 388px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-zlqz">Date</th>
+    <th class="tg-zlqz">Title</th>
+    <th class="tg-zlqz">Presenter</th>
+    <th class="tg-zlqz">Summary</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-dvpl">9/23/25</td>
+    <td class="tg-0pky">Rescuing Federal Research Data</td>
+    <td class="tg-0pky">Yea-Hung Chen and Ariel Deardorff, UCSF</td>
+    <td class="tg-0pky">Recent developments in data censorship and the current efforts to rescue and preserve government datasets. Organizations that have worked to preserve data, alternative sources of government data, and how you can get involved to protect valuable public information.</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl">10/28/25</td>
+    <td class="tg-0pky">The UC OSPO Survey 2025: A multi-campus survey of open source contributors at the University of California</td>
+    <td class="tg-0pky">Virginia Scarlett, UC Santa Barbara</td>
+    <td class="tg-0pky">Results of April 2025 survey assessing state of UC Open Source. Survey sheds light on how and why academics contribute to open source projects, as well as some of the barriers holding them back.</td>
+  </tr>
+</tbody></table>
+</div>

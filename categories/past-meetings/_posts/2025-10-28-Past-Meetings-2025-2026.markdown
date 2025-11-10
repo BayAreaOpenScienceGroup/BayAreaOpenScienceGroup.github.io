@@ -46,5 +46,11 @@ permalink: /past-meetings/2025-2026-meetings/
     <td class="tg-0pky">Virginia Scarlett, UC Santa Barbara</td>
     <td class="tg-0pky">Results of April 2025 survey assessing state of UC Open Source. Survey sheds light on how and why academics contribute to open source projects, as well as some of the barriers holding them back.</td>
   </tr>
+    <tr>
+    <td class="tg-dvpl">11/18/25</td>
+    <td class="tg-0pky">Open Science, Data and Software in the Natural Capital Project</td>
+    <td class="tg-0pky">Emily Pavia, Dave Fisher, James Douglass, Stanford</td>
+    <td class="tg-0pky">Discussion of NatCap's open source software including a suite of computational models for quantifying ecosystem services (InVEST), supporting Python libraries for geoprocessing (PyGeoprocessing) and for generating human- and machine-readable metadata (GeoMetaMaker) and the recently-launched Natural Capital Project Data Hub that facilitates open access to ecosystem services data.</td>
+  </tr>
 </tbody></table>
 </div>

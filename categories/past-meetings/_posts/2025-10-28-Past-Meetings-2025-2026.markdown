@@ -64,5 +64,11 @@ permalink: /past-meetings/2025-2026-meetings/
     <td class="tg-0pky">Ayako Kawano, Stanford</td>
     <td class="tg-0pky">Examination of the impact of air pollution on population health and climate change in low- and middle-income countries using remote sensing data and machine learning methods. Winner of the Stanford University Libraries Data Sharing Prize for her work publishing a long-term dataset of fine particulate matter concentrations in India</td>
   </tr>
+        <tr>
+    <td class="tg-dvpl">3/17/26</td>
+    <td class="tg-0pky">Cal Blueprint for Nonprofits</td>
+    <td class="tg-0pky">Ethan Tam, Inaya Yusuf, Nathan Tam, Melissa Liu</td>
+    <td class="tg-0pky">Members of Cal Blueprint, a Berkeley run nonprofit that builds pro-bono web and mobile applications for nonprofits join us in a conversation about nonprofit sourcing, current and past projects, and structure of open development workflows across student teams.</td>
+  </tr>
 </tbody></table>
 </div>

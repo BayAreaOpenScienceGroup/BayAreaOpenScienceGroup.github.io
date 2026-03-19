@@ -70,5 +70,11 @@ permalink: /past-meetings/2025-2026-meetings/
     <td class="tg-0pky">Ethan Tam, Inaya Yusuf, Nathan Tam, Melissa Liu</td>
     <td class="tg-0pky">Members of Cal Blueprint, a Berkeley run nonprofit that builds pro-bono web and mobile applications for nonprofits join us in a conversation about nonprofit sourcing, current and past projects, and structure of open development workflows across student teams.</td>
   </tr>
+  <tr>
+    <td class="tg-dvpl">4/28/26</td>
+    <td class="tg-0pky">New incentives for data sharing and the author-curated data reuse model</td>
+    <td class="tg-0pky">Tim Glinin, UCSF</td>
+    <td class="tg-0pky">Presentation of an "author-curated data reuse" model, a new framework for data sharing which incentivizes researchers to share high-quality datasets while ensuring appropriate credit and continued scientific involvement.</td>
+  </tr>
 </tbody></table>
 </div>

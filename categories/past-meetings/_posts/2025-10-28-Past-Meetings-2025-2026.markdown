@@ -76,5 +76,11 @@ permalink: /past-meetings/2025-2026-meetings/
     <td class="tg-0pky">Tim Glinin, UCSF</td>
     <td class="tg-0pky">Presentation of an "author-curated data reuse" model, a new framework for data sharing which incentivizes researchers to share high-quality datasets while ensuring appropriate credit and continued scientific involvement.</td>
   </tr>
+    <tr>
+    <td class="tg-dvpl">5/26/26</td>
+    <td class="tg-0pky">Open Science in the Age of AI</td>
+    <td class="tg-0pky">BAOSG</td>
+    <td class="tg-0pky">Community conversation on the intersection of open science and artificial intelligence.</td>
+  </tr>
 </tbody></table>
 </div>

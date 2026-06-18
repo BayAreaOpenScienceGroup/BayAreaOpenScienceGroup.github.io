@@ -1,0 +1,58 @@
+---
+layout: post
+date: 2026-06-18
+title: "2026-2027 Meetings"
+alt: Past Meetings 2026-27
+description: list of meetings from the 2026-27 year
+permalink: /past-meetings/2026-2027-meetings/
+---
+
+<div align = "center">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zlqz{background-color:#c0c0c0;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+
+<table class="tg" style="undefined;table-layout: fixed; width: 896px"><colgroup>
+<col style="width: 66px">
+<col style="width: 221px">
+<col style="width: 221px">
+<col style="width: 388px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-zlqz">Date</th>
+    <th class="tg-zlqz">Title</th>
+    <th class="tg-zlqz">Presenter</th>
+    <th class="tg-zlqz">Summary</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-dvpl">9/29/26</td>
+    <td class="tg-0pky">TBD/td>
+    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">TBD</td>
+  </tr>
+  <tr>
+    <td class="tg-dvpl">10/27/26</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+    <tr>
+    <td class="tg-dvpl">11/24/26</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+ 
+  </tr>
+</tbody></table>
+</div>

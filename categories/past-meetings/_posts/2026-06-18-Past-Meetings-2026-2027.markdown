@@ -36,7 +36,7 @@ permalink: /past-meetings/2026-2027-meetings/
 <tbody>
   <tr>
     <td class="tg-dvpl">9/29/26</td>
-    <td class="tg-0pky">TBD/td>
+    <td class="tg-0pky">TBD</td>
     <td class="tg-0pky">TBD</td>
     <td class="tg-0pky">TBD</td>
   </tr>
@@ -51,8 +51,6 @@ permalink: /past-meetings/2026-2027-meetings/
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
-  </tr>
- 
   </tr>
 </tbody></table>
 </div>

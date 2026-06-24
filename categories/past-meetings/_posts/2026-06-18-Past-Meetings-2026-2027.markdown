@@ -36,8 +36,8 @@ permalink: /past-meetings/2026-2027-meetings/
 <tbody>
   <tr>
     <td class="tg-dvpl">9/29/26</td>
-    <td class="tg-0pky">TBD</td>
-    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">Evolving approaches to open science and research transparency education</td>
+    <td class="tg-0pky">Jo Weech, BITSS, UC Berkeley</td>
     <td class="tg-0pky">TBD</td>
   </tr>
   <tr>

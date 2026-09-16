@@ -38,13 +38,13 @@ permalink: /past-meetings/2026-2027-meetings/
     <td class="tg-dvpl">9/29/26</td>
     <td class="tg-0pky">Evolving approaches to open science and research transparency education</td>
     <td class="tg-0pky">Jo Weech, BITSS, UC Berkeley</td>
-    <td class="tg-0pky">TBD</td>
+    <td class="tg-0pky">Evolution of education in open science and research transparency due to changes in researcher norms and use of AI.</td>
   </tr>
   <tr>
     <td class="tg-dvpl">10/27/26</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Meet MySuppleHub: An Open, Community-Contributed Evidence Base for Dietary Supplement</td>
+    <td class="tg-0pky">Kelly Yoo and Meenu Krishnakumar, Stanford</td>
+    <td class="tg-0pky">Introduction to MySuppleHub, a platform that combines a citation-linked supplement encyclopedia with community surveys, polls, and self-reported experiences.</td>
   </tr>
     <tr>
     <td class="tg-dvpl">11/24/26</td>

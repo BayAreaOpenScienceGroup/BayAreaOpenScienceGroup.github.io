@@ -47,7 +47,7 @@ permalink: /past-meetings/2026-2027-meetings/
     <td class="tg-0pky">Introduction to MySuppleHub, a platform that combines a citation-linked supplement encyclopedia with community surveys, polls, and self-reported experiences.</td>
   </tr>
     <tr>
-    <td class="tg-dvpl">11/24/26</td>
+    <td class="tg-dvpl">12/1/26</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>

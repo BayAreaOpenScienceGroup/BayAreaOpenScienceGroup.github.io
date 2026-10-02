@@ -50,7 +50,7 @@ permalink: /past-meetings/2026-2027-meetings/
     <td class="tg-dvpl">12/1/26</td>
     <td class="tg-0pky">OpenADMET - Raising the bar on ADMET prediction with open science</td>
     <td class="tg-0pky">Pat Walters (UCSF)</td>
-    <td class="tg-0pky"><Discussion of OpenADMET, an open-science initiative that integrates high-throughput experimentation, structural biology, and machine learning to advance ADMET prediction/td>
+    <td class="tg-0pky">Discussion of OpenADMET, an open-science initiative that integrates high-throughput experimentation, structural biology, and machine learning to advance ADMET prediction</td>
   </tr>
 </tbody></table>
 </div>
